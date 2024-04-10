@@ -1,0 +1,36 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    padding: 15px 0px 15px 0px;
+    border-top: 1px solid #17313a;
+    background: #17313a;
+    align-items: center;
+    font-size: 16px;
+}
+
+#foot{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-Span{
+    margin: auto;
+    padding: 5px 10px;
+    min-width: 150px;
+    text-align: center;
+    font: 14px "Encode Sans", sans-serif;
+}
+
+@media(max-width: 600px){
+    #foot{
+        flex-direction: column;
+    }
+
+    .footer-Span{
+        width: 100%;
+        margin: auto;
+    }
+}
