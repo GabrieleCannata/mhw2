@@ -1,0 +1,15 @@
+/images/components_images/BFSword.png
+/images/components_images/ChainVest.png
+/images/components_images/componenti.txt
+/images/components_images/GiantsBelt.png
+/images/components_images/import
+/images/components_images/os.py
+/images/components_images/lista_immagini.c
+/images/components_images/lista_immagini.exe
+/images/components_images/lista_path_componenti.txt
+/images/components_images/NeedlesslyLargeRod.png
+/images/components_images/NegatronCloak.png
+/images/components_images/RecurveBow.png
+/images/components_images/SparringGloves.png
+/images/components_images/Spatula.png
+/images/components_images/TearoftheGoddess.png

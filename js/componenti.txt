@@ -1,0 +1,14 @@
+BFSword.png
+ChainVest.png
+componenti.txt
+GiantsBelt.png
+import os.py
+lista_immagini.c
+lista_immagini.exe
+lista_path_componenti.txt
+NeedlesslyLargeRod.png
+NegatronCloak.png
+RecurveBow.png
+SparringGloves.png
+Spatula.png
+TearoftheGoddess.png
